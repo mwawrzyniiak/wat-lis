@@ -6,4 +6,10 @@ Maciek W. – back-end, front-end, desktop, devops
 Hubert I. – Database, back-end, architect, documentation  
 Paweł N. – security, documentation, tester  
 Natalia N. – design, desktop, visual presentation  
-
+# Built With  
+Nuxt.js - Front-end  
+Firebase - Backend  
+# Contributing  
+Just send pull request and we'll see what to do with it.  
+# License  
+This project is licensed under the MIT License - see the LICENSE.md file for details
